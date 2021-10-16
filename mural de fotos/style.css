@@ -1,0 +1,72 @@
+header{
+background-color:#00A8F3 
+    
+
+}
+
+.logo{
+	float: left;
+	margin:10px;
+}
+
+	
+
+h2{
+	text-align: center;
+	color: #D2225A
+
+}
+.pontos{
+	background: url(imagem/photo-1523821741446-edb2b68bb7a0.jpg);
+}
+
+h3{
+	text-align: center;
+	color: #61C2FF;
+}
+h4{
+	
+	text-align: center;
+
+	font-size: 20px
+	
+
+}
+li{
+	margin: 20px
+}
+.pontos{
+	
+}
+img{
+	padding: 0px -1
+}
+footer{
+	background-color: #00A8F3 
+
+}
+.copyright{
+	text-align: center;
+	float: center
+	font-size: 13px
+
+
+}
+.camera{
+	float: right;
+}
+.instagram{
+	position: absolute;
+	top:1300px;
+	right:700px
+}
+.facebook{
+	position: absolute;
+	top:1300px;
+	right:660px
+}
+.WhatsApp{
+	position: absolute;
+	top:1300px;
+	right:620px
+}

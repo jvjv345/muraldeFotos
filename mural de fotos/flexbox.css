@@ -1,0 +1,31 @@
+ul {
+    display:flex;
+    flex-wrap: wrap;
+}
+li{
+	height: auto;
+width: 100%;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+
+}
+h1{
+	margin-right: 600px
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+
+}
+.copyright{
+	margin-left:560px
+}
+.camera{
+	margin-left: 10px
+}
+.links{
+	display: flex;
+	align-items: center;
+}
